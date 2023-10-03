@@ -1,4 +1,4 @@
-# Estruturas_De_Repeticao_Com_Python
+# Estruturas_De_Repeticao
 Este repositório contém uma coleção de exercícios de programação em Python focados em Estruturas de Repetição.Esses exercícios abrangem uma variedade de tópicos, desde validação de entrada de dados até cálculos matemáticos, estatísticas e projeções. Eles são projetados para ajudar a praticar e aprimorar suas habilidades de programação Python, especialmente em relação ao uso de loops e estruturas de repetição.
 
 Aqui está uma visão geral dos tipos de exercícios incluídos:
